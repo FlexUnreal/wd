@@ -1,0 +1,31 @@
+### Content
+- **New ability**
+    - web throw
+- **New items**
+    - Iron scrap metal
+    - Aluminum scrap metal
+    - Plastic
+### world
+- Added small landfills
+
+### Technical Description 
+- Japanese font support
+- Some improvements in the gathering code
+
+### Balance
+- Shokerball range 7 -> 8
+- Electro-tornado range 7 -> 8
+- Electro-tornado mana cost 7 -> 15
+- Maximal xp to level 500 -> 300 
+
+### bug fix
+- Fixed skill "Hunger Call"
+- Fixed 20% bonus xp for "Assimilation"
+- Enemies can't see through walls
+
+### AI
+- General optimization
+- Complete redesign of AI
+- AI characters don't see further than the player now (14 tiles range)
+- memory of last pos enemy
+- social memory
